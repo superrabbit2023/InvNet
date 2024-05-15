@@ -9,7 +9,7 @@ The future electric grid will be pervasively formed by a vast number of smart in
 ### How to cite
 If you used InvNet, please cite us with the following:
 
-[1] Yufei Li, Yicheng Liao, Minjie Chen, Xiongfei Wang, Lars Nordström, Prateek Mittal, and H. Vincent Poor, "Few-shot machine learning at the grid-edge: data-driven impedance models for model-free smart inverters," TechRxiv, Preprint, 2023, doi =10.36227/techrxiv.22137905.v1 (https://doi.org/10.36227/techrxiv.22137905.v1).
+[1] Yufei Li, Yicheng Liao, Liang Zhao, Minjie Chen, Xiongfei Wang, Lars Nordström, Prateek Mittal, and H. Vincent Poor, "Machine Learning At the Grid Edge: Data-Driven Impedance Models for Model-Free Inverters," in IEEE Transactions on Power Electronics, 2024, doi: 10.1109/TPEL.2024.3399776. (https://ieeexplore.ieee.org/document/10529635).
 
 [2] Yufei Li, Yicheng Liao, Xiongfei Wang, Lars Nordström, Prateek Mittal, Minjie Chen, and H. Vincent Poor, "Neural Network Models and Transfer Learning for Impedance Modeling of Grid-Tied Inverters," 2022 IEEE 13th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), Kiel, Germany, 2022, pp. 1-6, doi: 10.1109/PEDG54999.2022.9923064.
 
